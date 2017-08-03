@@ -1,6 +1,6 @@
 {
-  "name":     "froboy/phing-drush-task",
-  "homepage": "https://github.com/froboy/phing-drush-task",
+  "name":     "continuousphp/phing-drush-task",
+  "homepage": "https://github.com/continuousphp/phing-drush-task",
   "description": "Drush task for Phing",
   "type": "library",
   "license": "GPL-2.0+",
